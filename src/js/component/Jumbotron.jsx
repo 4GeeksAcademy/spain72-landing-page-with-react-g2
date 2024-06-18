@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 
 
-export const NavbJumbotron = () => {
+export const Jumbotron = () => {
     return (
         <>
         <div className="container">
